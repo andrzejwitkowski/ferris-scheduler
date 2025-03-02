@@ -1,0 +1,8 @@
+[package]
+name = "ferris-scheduler"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "ferris_scheduler"
+path = "src/lib.rs"
